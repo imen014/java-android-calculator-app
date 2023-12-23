@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcul</string>
+    <string name="hello_btn">Votre Calculatrice à votre disposition</string>
+    <string name="saisi1">Entrer Num1</string>
+    <string name="saisi2">Entrer Num2</string>
+    <string name="operation">Somme, Soustraction, Multiplication, Division</string>
+    <string name="Resultat">Resultat : </string>
+</resources>
